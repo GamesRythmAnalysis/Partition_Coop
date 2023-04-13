@@ -84,8 +84,8 @@ mestouches <- levels(d.R$touche)
 
 plot_partition <- ggplot(data = d.R, aes (x = down.time, y = touche, 
                                   color = joueur)) +
-  geom_point(aes(size = duration^2, alpha = 0.1, stroke = 2), shape = 1) +
-  scale_size(range = c(1,15)) +
+  geom_point(aes(size = duration), shape = 1, alpha = 0.6, stroke = 4) +
+  scale_size(range = c(1,20)) +
   guides(size = "none", alpha = "none")+ 
   theme_minimal () +
   theme(plot.background = element_rect(fill = "white", color ="white"),
@@ -95,3 +95,7 @@ plot_partition <- ggplot(data = d.R, aes (x = down.time, y = touche,
   scale_color_manual (values = c("#3182bd", "#ff7f00"))
 
 plot_partition
+
+setwd("Resultats")
+ggsave(filename = paste (fichier_paul,".png", sep =""), plot = plot_partition)
+setwd("../")
