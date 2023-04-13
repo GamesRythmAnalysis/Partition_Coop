@@ -1,0 +1,411 @@
+Event;Key;Time
+Key Down;Espace;2336
+Key Up;Espace;2432
+Key Down;Entrée;4114
+Key Up;Entrée;4174
+Key Down;R;6039
+Key Down;N;6116
+Key Up;R;6116
+Key Up;N;6159
+Key Down;G;6234
+Key Up;G;6295
+Key Down;Espace;6747
+Key Up;Espace;6844
+Key Down;G;6919
+Key Up;G;6989
+Key Down;A;7095
+Key Up;A;7183
+Key Down;M;7218
+Key Up;M;7296
+Key Down;E;7335
+Key Up;E;7405
+Key Down;S;7526
+Key Up;S;7605
+Key Down;Tab;7784
+Key Up;Tab;7898
+Key Down;Tab;8360
+Key Up;Tab;8457
+Key Down;Entrée;9052
+Key Up;Entrée;9175
+Key Down;Entrée;10011
+Key Up;Entrée;10054
+Key Down;Tab;10709
+Key Up;Tab;10788
+Key Down;Echap;12399
+Key Up;Echap;12487
+Key Down;Entrée;31862
+Key Up;Entrée;31932
+Key Down;Entrée;32337
+Key Up;Entrée;32397
+Key Down;Tab;39415
+Key Up;Tab;43032
+Key Down;Tab;45386
+Key Up;Tab;46741
+Key Down;Tab;75495
+Key Up;Tab;76092
+Key Down;Tab;76712
+Key Up;Tab;77424
+Key Down;Tab;78990
+Key Up;Tab;79282
+Key Down;W;89682
+Key Up;W;89760
+Key Down;W;89823
+Key Up;W;89901
+Key Down;V;94416
+Key Up;V;94556
+Key Down;W;114002
+Key Up;W;114125
+Key Down;Left Control;114982
+Key Down;E;115341
+Key Up;Left Control;115469
+Key Up;E;115470
+Key Down;E;115577
+Key Up;E;115629
+Key Down;E;115700
+Key Up;E;115752
+Key Down;E;115857
+Key Up;E;115907
+Key Down;D;118165
+Key Up;D;118244
+Key Down;E;119109
+Key Up;E;119179
+Key Down;E;119265
+Key Up;E;119325
+Key Down;E;119417
+Key Up;E;119505
+Key Down;E;119575
+Key Up;E;119663
+Key Down;E;119742
+Key Up;E;119820
+Key Down;F;119925
+Key Up;F;120039
+Key Down;D;120366
+Key Up;D;120480
+Key Down;2;122101
+Key Up;2;122198
+Key Down;Tab;127810
+Key Up;Tab;128648
+Key Down;Tab;134356
+Key Up;Tab;135015
+Key Down;W;152383
+Key Up;W;152497
+Key Down;E;154412
+Key Up;E;154536
+Key Down;W;162743
+Key Up;W;162849
+Key Down;W;162951
+Key Up;W;163056
+Key Down;Tab;165407
+Key Up;Tab;168162
+Key Down;Tab;168579
+Key Up;Tab;170000
+Key Down;Echap;173348
+Key Up;Echap;173444
+Key Down;Tab;175645
+Key Up;Tab;176807
+Key Down;Tab;177712
+Key Up;Tab;182203
+Key Down;Espace;184187
+Key Up;Espace;184338
+Key Down;E;184700
+Key Up;E;184761
+Key Down;Tab;185253
+Key Up;Tab;186727
+Key Down;Tab;187778
+Key Up;Tab;190040
+Key Down;Left Control;205952
+Key Down;Q;206318
+Key Up;Q;206432
+Key Up;Left Control;206518
+Key Down;Tab;228418
+Key Up;Tab;229043
+Key Down;Tab;233245
+Key Up;Tab;233646
+Key Down;Tab;236179
+Key Up;Tab;236589
+Key Down;Tab;237120
+Key Up;Tab;237457
+Key Down;Tab;251718
+Key Up;Tab;252316
+Key Down;Left Control;259842
+Key Down;W;260075
+Key Up;W;260180
+Key Up;Left Control;260257
+Key Down;T;278156
+Key Up;T;278270
+Key Down;3;283845
+Key Up;3;284290
+Key Down;T;285264
+Key Up;T;285352
+Key Down;Tab;309199
+Key Up;Tab;309868
+Key Down;Tab;310948
+Key Up;Tab;313613
+Key Down;Tab;313831
+Key Up;Tab;314447
+Key Down;Tab;316929
+Key Up;Tab;318771
+Key Down;W;328719
+Key Up;W;328842
+Key Down;W;341533
+Key Up;W;341666
+Key Down;E;343548
+Key Up;E;343670
+Key Down;Q;344853
+Key Up;Q;344923
+Key Down;Q;345000
+Key Up;Q;345087
+Key Down;F;345755
+Key Up;F;345861
+Key Down;W;355566
+Key Up;W;355751
+Key Down;E;358158
+Key Up;E;358281
+Key Down;E;358544
+Key Up;E;358668
+Key Down;E;358757
+Key Up;E;358853
+Key Down;Tab;363057
+Key Up;Tab;364174
+Key Down;Left Control;370476
+Key Down;W;370681
+Key Up;W;370796
+Key Up;Left Control;370864
+Key Down;Left Alt;372330
+Key Up;Left Alt;372821
+Key Down;B;383250
+Key Up;B;383356
+Key Down;Espace;384896
+Key Up;Espace;385028
+Key Down;Tab;388846
+Key Up;Tab;390552
+Key Down;Left Shift;391177
+Key Up;Left Shift;391561
+Key Down;Echap;395269
+Key Up;Echap;395410
+Key Down;Echap;400545
+Key Up;Echap;400650
+Key Down;C;401835
+Key Up;C;404160
+Key Down;C;404498
+Key Up;C;404568
+Key Down;C;404694
+Key Up;C;404799
+Key Down;Left Control;405325
+Key Down;C;405460
+Key Up;C;405583
+Key Down;C;405930
+Key Up;C;406018
+Key Down;C;406195
+Key Up;C;406255
+Key Down;C;406370
+Key Up;C;406449
+Key Up;Left Control;406767
+Key Down;C;406937
+Key Up;C;407561
+Key Down;Left Control;407707
+Key Down;C;407842
+Key Up;C;407939
+Key Up;Left Control;408033
+Key Down;C;408320
+Key Up;C;409017
+Key Down;C;409244
+Key Up;C;409609
+Key Down;Left Control;409796
+Key Down;C;409976
+Key Up;C;410063
+Key Up;Left Control;410247
+Key Down;Left Control;410690
+Key Down;C;410817
+Key Up;C;410877
+Key Down;C;410974
+Key Up;C;410998
+Key Up;Left Control;411388
+Key Down;C;411748
+Key Up;C;412211
+Key Down;Left Shift;419157
+Key Up;Left Shift;420004
+Key Down;Left Shift;420583
+Key Up;Left Shift;421396
+Key Down;4;470644
+Key Up;4;471009
+Key Down;Left Control;503719
+Key Down;R;504535
+Key Up;R;504613
+Key Up;Left Control;504689
+Key Down;Tab;505495
+Key Up;Tab;506199
+Key Down;Tab;507215
+Key Up;Tab;507652
+Key Down;Tab;509370
+Key Up;Tab;509701
+Key Down;2;517066
+Key Up;2;517180
+Key Down;Tab;523706
+Key Up;Tab;524510
+Key Down;D;538559
+Key Up;D;538656
+Key Down;W;538686
+Key Up;W;538773
+Key Down;W;538852
+Key Up;W;538931
+Key Down;R;538948
+Key Up;R;539063
+Key Down;R;539149
+Key Up;R;539201
+Key Down;Q;546531
+Key Up;Q;546681
+Key Down;V;553631
+Key Up;V;553737
+Key Down;W;554474
+Key Up;W;554581
+Key Down;3;559906
+Key Up;3;560352
+Key Down;W;566573
+Key Up;W;566724
+Key Down;Tab;574681
+Key Up;Tab;575179
+Key Down;Tab;576330
+Key Up;Tab;576614
+Key Down;Left Alt;578108
+Key Up;Left Alt;579680
+Key Down;Espace;579998
+Key Up;Espace;580130
+Key Down;3;582347
+Key Up;3;582568
+Key Down;3;582986
+Key Up;3;583386
+Key Down;3;584607
+Key Up;3;585016
+Key Down;3;585490
+Key Up;3;585676
+Key Down;Tab;605658
+Key Up;Tab;605915
+Key Down;W;613602
+Key Up;W;613706
+Key Down;Q;616718
+Key Up;Q;616806
+Key Down;Left Control;621330
+Key Down;W;621571
+Key Up;W;621685
+Key Up;Left Control;621726
+Key Down;W;630100
+Key Up;W;630196
+Key Down;W;630280
+Key Up;W;630350
+Key Down;Tab;637666
+Key Up;Tab;638021
+Key Down;W;643462
+Key Up;W;643603
+Key Down;D;651413
+Key Up;D;653810
+Key Down;W;653934
+Key Up;W;654039
+Key Down;R;655567
+Key Up;R;655672
+Key Down;E;656391
+Key Up;E;656487
+Key Down;E;656555
+Key Up;E;656652
+Key Down;Q;656797
+Key Up;Q;656875
+Key Down;Q;656981
+Key Up;Q;657078
+Key Down;Q;657164
+Key Up;Q;657234
+Key Down;F;658793
+Key Up;F;658870
+Key Down;W;665151
+Key Up;W;665265
+Key Down;Tab;680208
+Key Up;Tab;680510
+Key Down;B;681936
+Key Up;B;682077
+Key Down;Left Shift;682567
+Key Up;Left Shift;684757
+Key Down;Espace;684843
+Key Up;Espace;684976
+Key Down;Tab;688321
+Key Up;Tab;689124
+Key Down;Echap;697033
+Key Up;Echap;697119
+Key Down;Tab;700115
+Key Up;Tab;706459
+Key Down;Tab;708228
+Key Up;Tab;708548
+Key Down;Espace;710251
+Key Up;Espace;710831
+Key Down;Tab;711008
+Key Up;Tab;713553
+Key Down;Espace;719551
+Key Up;Espace;719718
+Key Down;Tab;720908
+Key Up;Tab;721969
+Key Down;Tab;723071
+Key Up;Tab;723480
+Key Down;Left Control;739723
+Key Down;E;739973
+Key Up;E;740070
+Key Up;Left Control;740137
+Key Down;Left Alt;745151
+Key Up;Left Alt;746856
+Key Down;4;747777
+Key Up;4;747919
+Key Down;4;748379
+Key Up;4;748547
+Key Down;3;751674
+Key Up;3;751798
+Key Down;4;755293
+Key Up;4;755631
+Key Down;4;763733
+Key Up;4;765000
+Key Down;4;766046
+Key Up;4;766769
+Key Down;4;767659
+Key Up;4;767755
+Key Down;Tab;768955
+Key Up;Tab;769847
+Key Down;Entrée;779801
+Key Up;Entrée;779852
+Key Down;Entrée;779967
+Key Up;Entrée;780019
+Key Down;Tab;787231
+Key Up;Tab;787739
+Key Down;Tab;787864
+Key Up;Tab;788505
+Key Down;Tab;796051
+Key Up;Tab;796380
+Key Down;Left Alt;814399
+Key Up;Left Alt;814809
+Key Down;Tab;830996
+Key Up;Tab;831422
+Key Down;Espace;840225
+Key Up;Espace;840366
+Key Down;Left Alt;841027
+Key Up;Left Alt;842099
+Key Down;Espace;842237
+Key Up;Espace;842359
+Key Down;W;855226
+Key Up;W;855377
+Key Down;Left Shift;858674
+Key Up;Left Shift;859673
+Key Down;Espace;859802
+Key Up;Espace;859925
+Key Down;W;864588
+Key Up;W;864720
+Key Down;3;868895
+Key Up;3;869090
+Key Down;Tab;871874
+Key Up;Tab;872069
+Key Down;W;877545
+Key Up;W;877713
+Key Down;V;880542
+Key Up;V;880657
+Key Down;Entrée;888300
+Key Up;Entrée;888424
+Key Down;Entrée;888686
+Key Up;Entrée;888773
+Key Down;Left Alt;889277
+Key Down;Tab;889376
+Key Up;Left Alt;889498
+Key Up;Tab;889499
